@@ -422,6 +422,8 @@ NAN_MODULE_INIT(init) {
     NAN_EXPORT(target, x11);
     NAN_EXPORT(target, x13);
     NAN_EXPORT(target, x15);
+	NAN_EXPORT(target, x22i);
+	NAN_EXPORT(target, x25x);
     NAN_EXPORT(target, x16r);
     NAN_EXPORT(target, x16rv2);
     NAN_EXPORT(target, neoscrypt);
